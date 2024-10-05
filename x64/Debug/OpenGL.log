@@ -1,5 +1,17 @@
 ﻿  main.cpp
-C:\Users\1\Desktop\C++\OpenGL\main.cpp(178,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\1\Desktop\C++\OpenGL\main.cpp(220,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\1\Desktop\C++\OpenGL\main.cpp(221,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(198,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(198,27): warning C4244:         with
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(198,27): warning C4244:         [
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(198,27): warning C4244:             T=float
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(198,27): warning C4244:         ]
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(199,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(199,27): warning C4244:         with
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(199,27): warning C4244:         [
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(199,27): warning C4244:             T=float
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(199,27): warning C4244:         ]
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(200,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(200,27): warning C4244:         with
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(200,27): warning C4244:         [
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(200,27): warning C4244:             T=float
+C:\Users\1\Desktop\C++\OpenGL\main.cpp(200,27): warning C4244:         ]
   OpenGL.vcxproj -> C:\Users\1\Desktop\C++\OpenGL\x64\Debug\OpenGL.exe
